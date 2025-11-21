@@ -1,2 +1,8 @@
-# my_proyecto
-Juego interactivo de números desarrollado en Python, donde el usuario intenta adivinar un número generado aleatoriamente por el sistema. Incluye validación de entradas, mensajes dinámicos, retroalimentación en tiempo real y contador de intentos. El objetivo es ofrecer una experiencia sencilla, rápida y entretenida
+# pytest cache directory #
+
+This directory contains data from the pytest's cache plugin,
+which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
+
+**Do not** commit this to version control.
+
+See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.
